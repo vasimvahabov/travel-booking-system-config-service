@@ -13,7 +13,7 @@ spring:
           force-pull: true
 
 server:
-  port: 6464
+  port: 8005
   tomcat:
     connection-timeout: 2s
     keep-alive-timeout: 15s
